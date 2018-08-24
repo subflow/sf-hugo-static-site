@@ -6,5 +6,5 @@ alt = "kflogo"
 color = "#c1e4ee"
 link1 = "http://www.klarafastigheter.se"
 link2 = ""
-draft = true
+draft = false
 +++
