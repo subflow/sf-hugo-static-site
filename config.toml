@@ -1,49 +1,77 @@
+<<<<<<< HEAD
 title = "Subflow | YES."
 baseURL = "https://subflow.netlify.com"
 tags = ["subflow", "web dev", "automation"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
+=======
+baseURL = "https://subflow.se"
+>>>>>>> a53a203ae3a60ba69a3ad393c63282b073aa82f6
 canonifyURLS = true
-googleAnalytics = ""
+config = "config.toml"
+disableKinds = ["taxonomy", "taxonomyTerm"]
 disqusShortname = "zne"
-disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
-
+googleAnalytics = ""
+languageCode = "en-US"
+tags = ["subflow", "web dev", "automation"]
+theme = "osprey"
+title = "Subflow | YES."
 [Params]
-    tagline = "Webdev and custom workflows."
-    author = "Jonas Olsson"
-    description = "Full-stack web developer and it-consultant based in Örebro, Sweden."
-    logoBig = "/images/sf-logo.png"
-    logoSmall = "/images/sf-logo-small.png"
-    favicon = "favicon.ico"
-    opengraphImage = "/images/osprey.png"
-    twitter = "lowtekse"
-    linkedin = "jonas--olsson"
-    github = "subflow"
-    facebook = "zneee"
-    email = "jonas@subflow.se"
-    googleTagManager = ""
-    highlightJS = true
-    copyright = true
-    credit = true
-    customCSS = false
-    cacheBustCSS = false
-    cacheBustJS = false
-    ajaxFormspree = true
-
+ajaxFormspree = true
+author = "Jonas Olsson"
+cacheBustCSS = false
+cacheBustJS = false
+copyright = true
+credit = true
+customCSS = false
+description = "Full-stack web developer and it-consultant based in Örebro, Sweden."
+email = "jonas@subflow.se"
+facebook = "zneee"
+favicon = "favicon.ico"
+github = "subflow"
+googleTagManager = ""
+highlightJS = true
+linkedin = "jonas--olsson"
+logoBig = "/images/sf-logo.png"
+logoSmall = "/images/sf-logo-small.png"
+opengraphImage = "/images/osprey.png"
+tagline = "Webdev and custom workflows."
+twitter = "lowtekse"
 [[menu.main]]
-    name = "About"
-    url  = "/#about"
-    weight = 1
+name = "About"
+url = "/#about"
+weight = 1
 [[menu.main]]
-    name = "Work"
-    url  = "/#work"
-    weight = 2
+name = "Work"
+url = "/#work"
+weight = 2
 [[menu.main]]
-    name = "Blog"
-    url  = "/#blog"
-    weight = 3
+name = "Blog"
+url = "/#blog"
+weight = 3
 [[menu.main]]
-    name = "Contact"
-    url  = "/#contact"
-    weight = 4
+name = "Contact"
+url = "/#contact"
+weight = 4
+[params]
+ajaxFormspree = true
+author = "Jonas Olsson"
+cacheBustCSS = false
+cacheBustJS = false
+copyright = true
+credit = false
+customCSS = false
+description = "Full-stack web developer and it-consultant based in Örebro, Sweden."
+email = "jonas@subflow.se"
+facebook = "zneee"
+favicon = "favicon.ico"
+github = "subflow"
+googleTagManager = ""
+highlightJS = true
+linkedin = "jonas--olsson"
+logoBig = "/images/sf-logo.png"
+logoSmall = "/images/sf-logo-small.png"
+opengraphImage = "/images/osprey.png"
+tagline = "Webdev and custom workflows."
+twitter = "lowtekse"
