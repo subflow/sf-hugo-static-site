@@ -1,7 +1,7 @@
 ---
-title: "First Post"
-date: 2018-08-24T12:10:27+02:00
-draft: true
+title: First Post
+date: 2018-08-24 10:10:27 +0000
+
 ---
 Hey there,
 Ive been thinking for some time that i should have a blog where i can post some things i find and kind of notes to myself.
