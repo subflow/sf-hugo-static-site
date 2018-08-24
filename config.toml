@@ -1,5 +1,5 @@
 title = "Subflow | YES."
-baseURL = "https://subflow.se"
+baseURL = "https://subflow.netlify.com"
 tags = ["subflow", "web dev", "automation"]
 languageCode = "en-US"
 config = "config.toml"
