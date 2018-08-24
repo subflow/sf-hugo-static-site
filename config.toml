@@ -1,4 +1,5 @@
 title = "Subflow | YES."
+staticDir = "images"
 baseURL = "https://subflow.netlify.com"
 tags = ["subflow", "web dev", "automation"]
 languageCode = "en-US"
