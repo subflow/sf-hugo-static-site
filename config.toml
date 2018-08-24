@@ -1,10 +1,10 @@
 title = "Subflow | YES."
-staticDir = "images"
 baseURL = "https://subflow.netlify.com"
 tags = ["subflow", "web dev", "automation"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
+staticDir = ["static", "hej"]
 canonifyURLS = true
 googleAnalytics = ""
 disqusShortname = "zne"
