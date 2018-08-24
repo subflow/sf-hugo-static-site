@@ -1,0 +1,49 @@
+title = "Subflow | YES."
+baseURL = "http://subflow.se"
+tags = ["subflow", "web dev", "automation"]
+languageCode = "en-US"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disqusShortname = "zne"
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Params]
+    tagline = "Webdev and custom workflows."
+    author = "Jonas Olsson"
+    description = "Full-stack web developer and it-consultant based in Örebro, Sweden."
+    logoBig = "/images/sf-logo.png"
+    logoSmall = "/images/sf-logo-small.png"
+    favicon = "favicon.ico"
+    opengraphImage = "/images/osprey.png"
+    twitter = "lowtekse"
+    linkedin = "jonas--olsson"
+    github = "subflow"
+    facebook = "zneee"
+    email = "jonas@subflow.se"
+    googleTagManager = ""
+    highlightJS = true
+    copyright = true
+    credit = true
+    customCSS = false
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
+
+[[menu.main]]
+    name = "About"
+    url  = "/#about"
+    weight = 1
+[[menu.main]]
+    name = "Work"
+    url  = "/#work"
+    weight = 2
+[[menu.main]]
+    name = "Blog"
+    url  = "/#blog"
+    weight = 3
+[[menu.main]]
+    name = "Contact"
+    url  = "/#contact"
+    weight = 4
