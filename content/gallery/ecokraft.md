@@ -1,7 +1,7 @@
 +++
 title = "Ecokraft"
 date = 2018-08-24T17:02:10+02:00
-image = "eco3.png"
+image = "m/eco3.png"
 alt = "Ecokraft"
 color = "#ffffff"
 link1 = "https://www.ecokraft.se/"

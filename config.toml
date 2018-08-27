@@ -1,5 +1,5 @@
 title = "Subflow | YES."
-baseURL = "https://subflow.netlify.com"
+baseURL = "https://subflow.se"
 tags = ["subflow", "web dev", "automation"]
 languageCode = "en-US"
 config = "config.toml"
@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     tagline = "Webdev and custom workflows."
     author = "Jonas Olsson"
     description = "Full-stack web developer and it-consultant based in Örebro, Sweden."
-    logoBig = "/images/sf-logo.png"
+    logoBig = "/images/m/sf-logo.png"
     logoSmall = "/images/sf-logo-small.png"
     favicon = "favicon.ico"
     opengraphImage = "/images/osprey.png"
