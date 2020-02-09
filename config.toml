@@ -6,7 +6,7 @@ config = "config.toml"
 theme = "osprey"
 staticDir = ["static", "hej"]
 canonifyURLS = true
-googleAnalytics = ""
+googleAnalytics = "UA-108387969-1"
 disqusShortname = "subflow"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
@@ -23,7 +23,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     github = "subflow"
     facebook = "zneee"
     email = "jonas@subflow.se"
-    googleTagManager = ""
+    googleTagManager = "UA-108387969-1"
     highlightJS = true
     copyright = true
     credit = false
